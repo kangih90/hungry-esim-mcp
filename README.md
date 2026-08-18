@@ -23,7 +23,7 @@ Unlimited data plans where you pick your days, top-ups for eSIMs you already own
 
 Public tools work immediately with no sign-in. Account tools use OAuth: the assistant sends you to hungry-esim.com to sign in once, then can see your eSIMs and orders.
 
-Payment always happens on hungry-esim.com in a normal browser checkout (credit card, Apple Pay). The assistant never touches your payment details.
+Payment always happens on hungry-esim.com in a normal browser checkout with a credit card. The assistant never touches your payment details.
 
 ## Setup
 
