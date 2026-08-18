@@ -3,11 +3,12 @@
   "name": "com.hungry-esim/esim",
   "title": "Hungry eSIM",
   "description": "Travel eSIMs: unlimited data, pick your days, top up existing eSIMs, card checkout, no API key.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "websiteUrl": "https://hungry-esim.com/for-agents",
   "repository": {
     "url": "https://github.com/kangih90/hungry-esim-mcp",
-    "source": "github"
+    "source": "github",
+    "id": "1337185268"
   },
   "remotes": [
     {

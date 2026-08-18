@@ -13,6 +13,8 @@ Unlimited data plans where you pick your days, top-ups for eSIMs you already own
 | Tool | What it does | Auth |
 |---|---|---|
 | `search_esim_plans` | Search travel eSIM data plans by destination, data amount, and validity | — |
+| `check_destination_coverage` | "Does it work in …?" — coverage check for a destination with representative plans | — |
+| `find_cheapest_plan` | Cheapest plan(s) for a destination and trip length (total-trip cost ranking) | — |
 | `get_plan_details` | Full details for one plan (coverage, speed, top-up support) | — |
 | `create_checkout` | Create a card checkout link for a plan — for unlimited plans, choose how many days | — |
 | `get_order_status` | Check an order and eSIM installation status | — |
